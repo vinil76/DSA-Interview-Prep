@@ -40,14 +40,20 @@
 | ------- |
 | [0039-combination-sum](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0078-subsets) |
 | [0377-combination-sum-iv](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0377-combination-sum-iv) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0078-subsets) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0377-combination-sum-iv](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0377-combination-sum-iv) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
