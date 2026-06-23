@@ -39,8 +39,13 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0039-combination-sum) |
+| [0377-combination-sum-iv](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0377-combination-sum-iv) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0039-combination-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0377-combination-sum-iv](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0377-combination-sum-iv) |
 <!---LeetCode Topics End-->
