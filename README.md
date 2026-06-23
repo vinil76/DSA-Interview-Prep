@@ -42,6 +42,7 @@
 | [0040-combination-sum-ii](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0216-combination-sum-iii) |
 | [0377-combination-sum-iv](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0377-combination-sum-iv) |
 ## Backtracking
 |  |
@@ -50,6 +51,7 @@
 | [0040-combination-sum-ii](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0216-combination-sum-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
