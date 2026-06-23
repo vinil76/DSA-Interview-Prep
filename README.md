@@ -10,14 +10,29 @@
 | ------- |
 | [0205-isomorphic-strings](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0541-reverse-string-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
