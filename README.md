@@ -69,8 +69,18 @@
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0237-delete-node-in-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0203-remove-linked-list-elements) |
+| [2487-remove-nodes-from-linked-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/2487-remove-nodes-from-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/2487-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
