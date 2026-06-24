@@ -68,12 +68,14 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0237-delete-node-in-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0206-reverse-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
