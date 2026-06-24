@@ -64,4 +64,12 @@
 | ------- |
 | [0078-subsets](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0090-subsets-ii) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
