@@ -6,6 +6,7 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0234-palindrome-linked-list) |
 | [0541-reverse-string-ii](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0541-reverse-string-ii) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0206-reverse-linked-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0237-delete-node-in-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0234-palindrome-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
