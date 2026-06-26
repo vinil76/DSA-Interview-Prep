@@ -51,6 +51,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0040-combination-sum-ii) |
+| [0055-jump-game](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0216-combination-sum-iii) |
@@ -69,6 +70,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0055-jump-game) |
 | [0377-combination-sum-iv](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0377-combination-sum-iv) |
 ## Bit Manipulation
 |  |
@@ -118,6 +120,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
