@@ -102,6 +102,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/2487-remove-nodes-from-linked-list) |
@@ -123,4 +124,16 @@
 | [0055-jump-game](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0860-lemonade-change) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
