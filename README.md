@@ -18,6 +18,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0205-isomorphic-strings](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0541-reverse-string-ii) |
 ## Hash Table
@@ -67,6 +68,7 @@
 | [0078-subsets](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0257-binary-tree-paths) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -147,6 +150,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -159,6 +163,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
