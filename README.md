@@ -22,6 +22,7 @@
 | [0257-binary-tree-paths](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0541-reverse-string-ii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vinil76/DSA-Interview-Prep/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [0945-minimum-increment-to-make-array-unique](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0948-bag-of-tokens) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vinil76/DSA-Interview-Prep/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vinil76/DSA-Interview-Prep/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Backtracking
 |  |
 | ------- |
