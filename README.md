@@ -63,6 +63,7 @@
 | [0055-jump-game](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0090-subsets-ii) |
+| [0200-number-of-islands](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0216-combination-sum-iii) |
 | [0377-combination-sum-iv](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0377-combination-sum-iv) |
 | [0455-assign-cookies](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0455-assign-cookies) |
@@ -169,6 +170,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0543-diameter-of-binary-tree) |
@@ -199,15 +201,21 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
