@@ -67,6 +67,7 @@
 | [0216-combination-sum-iii](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0216-combination-sum-iii) |
 | [0377-combination-sum-iv](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0377-combination-sum-iv) |
 | [0455-assign-cookies](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0455-assign-cookies) |
+| [0739-daily-temperatures](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0860-lemonade-change) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0948-bag-of-tokens) |
@@ -121,11 +122,13 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0739-daily-temperatures) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/2487-remove-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
