@@ -71,6 +71,7 @@
 | [0860-lemonade-change](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0860-lemonade-change) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0948-bag-of-tokens) |
+| [1020-number-of-enclaves](https://github.com/vinil76/DSA-Interview-Prep/tree/master/1020-number-of-enclaves) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vinil76/DSA-Interview-Prep/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vinil76/DSA-Interview-Prep/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Backtracking
@@ -179,6 +180,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/vinil76/DSA-Interview-Prep/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -208,11 +210,13 @@
 | [0513-find-bottom-left-tree-value](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/vinil76/DSA-Interview-Prep/tree/master/1020-number-of-enclaves) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/vinil76/DSA-Interview-Prep/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
@@ -221,4 +225,5 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0200-number-of-islands) |
+| [1020-number-of-enclaves](https://github.com/vinil76/DSA-Interview-Prep/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
