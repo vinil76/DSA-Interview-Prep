@@ -74,6 +74,7 @@
 | [0945-minimum-increment-to-make-array-unique](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0948-bag-of-tokens) |
 | [0994-rotting-oranges](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0994-rotting-oranges) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/vinil76/DSA-Interview-Prep/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1020-number-of-enclaves](https://github.com/vinil76/DSA-Interview-Prep/tree/master/1020-number-of-enclaves) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vinil76/DSA-Interview-Prep/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vinil76/DSA-Interview-Prep/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -151,6 +152,7 @@
 | [0860-lemonade-change](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0860-lemonade-change) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0948-bag-of-tokens) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/vinil76/DSA-Interview-Prep/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vinil76/DSA-Interview-Prep/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Tree
 |  |
