@@ -68,6 +68,7 @@
 | [0216-combination-sum-iii](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0216-combination-sum-iii) |
 | [0377-combination-sum-iv](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0377-combination-sum-iv) |
 | [0455-assign-cookies](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0455-assign-cookies) |
+| [0542-01-matrix](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0542-01-matrix) |
 | [0739-daily-temperatures](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0860-lemonade-change) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -92,6 +93,7 @@
 | [0055-jump-game](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0377-combination-sum-iv](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0377-combination-sum-iv) |
+| [0542-01-matrix](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0542-01-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -212,6 +214,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0513-find-bottom-left-tree-value) |
+| [0542-01-matrix](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0994-rotting-oranges) |
@@ -232,6 +235,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/vinil76/DSA-Interview-Prep/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
