@@ -23,23 +23,67 @@ public:
         return false;
     }
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
+        //DFS
+        //-------------------------
+        // int V = graph.size();
+        // vector<int>visited(V,0),path(V,0),safe(V,0);
+
+        // for(int i = 0;i<V;i++){
+        //     if(!visited[i]){
+        //        dfs(i,graph,visited,path,safe);
+        //     }
+        // }
+
+        // vector<int>ans;
+
+        // for(int i=0;i<V;i++){
+        //     if(safe[i] == 1){
+        //         ans.push_back(i);
+        //     }
+        // }
+    
+        // return ans;
+
+
+        //BFS
+        //------------------------
         int V = graph.size();
-        vector<int>visited(V,0),path(V,0),safe(V,0);
+        vector<vector<int>>adjRev(V);
+        vector<int>indegree(V,0);
 
         for(int i = 0;i<V;i++){
-            if(!visited[i]){
-               dfs(i,graph,visited,path,safe);
+            for(auto it:graph[i]){
+                adjRev[it].push_back(i);
+                indegree[i]++;
             }
         }
 
-        vector<int>ans;
-
+        queue<int>q;
         for(int i=0;i<V;i++){
-            if(safe[i] == 1){
-                ans.push_back(i);
+            if(indegree[i] == 0){
+                q.push(i);
             }
         }
-    
-        return ans;
+
+        vector<int>safe;
+
+        while(!q.empty()){
+            int node = q.front();
+            q.pop();
+
+            safe.push_back(node);
+
+            for(int it:adjRev[node]){
+                indegree[it]--;
+                if(indegree[it] == 0){
+                    q.push(it);
+                }
+            }
+        }
+
+
+        sort(safe.begin(),safe.end());
+        
+        return safe;
     }
 };
