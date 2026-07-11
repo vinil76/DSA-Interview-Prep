@@ -1,46 +1,45 @@
 class Solution {
 public:
-    bool dfs(int i, vector<vector<int>>& graph, vector<int>& visited, vector<int>& pathV,vector<int>& safeN) {
-        visited[i] = 1;
-        pathV[i] = 1;
-        safeN[i] = 0;
+    bool dfs(int node,vector<vector<int>>& graph,vector<int>& visited,vector<int>& path,vector<int>& safe){
+        visited[node] = 1;
+        path[node] = 1;
+        safe[node] = 0;
 
-        for(int val:graph[i]){
+        for(int val:graph[node]){
             if(!visited[val]){
-                if(dfs(val,graph,visited,pathV,safeN)){
+                if(dfs(val,graph,visited,path,safe)){
                     return true;
                 }
-            }else if(pathV[val]){
-                return true;
+            }else{
+                if(path[val]){
+                    return true;
+                }
             }
-        }
-        safeN[i] = 1;
-        pathV[i] = 0;
+        } 
+
+        path[node] = 0;
+        safe[node] = 1;
 
         return false;
     }
-
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
         int V = graph.size();
-        vector<int> visited(V, 0);
-        vector<int> pathV(V, 0);
-        vector<int> safeN(V, 0);
+        vector<int>visited(V,0),path(V,0),safe(V,0);
 
-        for (int i = 0; i < V; i++) {
-            if (!visited[i]) {
-                dfs(i, graph, visited, pathV,safeN);
+        for(int i = 0;i<V;i++){
+            if(!visited[i]){
+               dfs(i,graph,visited,path,safe);
             }
         }
 
         vector<int>ans;
 
         for(int i=0;i<V;i++){
-            if(safeN[i]){
+            if(safe[i] == 1){
                 ans.push_back(i);
             }
         }
-
+    
         return ans;
-        
     }
 };
