@@ -36,6 +36,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0455-assign-cookies) |
@@ -68,6 +69,7 @@
 | [0200-number-of-islands](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0216-combination-sum-iii) |
 | [0377-combination-sum-iv](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0377-combination-sum-iv) |
+| [0435-non-overlapping-intervals](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0542-01-matrix) |
@@ -96,6 +98,7 @@
 | [0055-jump-game](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0377-combination-sum-iv](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0377-combination-sum-iv) |
+| [0435-non-overlapping-intervals](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0542-01-matrix) |
 ## Bit Manipulation
 |  |
@@ -150,6 +153,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0860-lemonade-change) |
