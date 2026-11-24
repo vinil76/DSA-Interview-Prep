@@ -10,6 +10,7 @@
 | [0148-sort-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0876-middle-of-the-linked-list) |
@@ -33,6 +34,7 @@
 | [0205-isomorphic-strings](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0451-sort-characters-by-frequency) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
@@ -42,6 +44,7 @@
 | [0148-sort-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -78,6 +81,7 @@
 | [0216-combination-sum-iii](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0349-intersection-of-two-arrays) |
 | [0377-combination-sum-iv](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0377-combination-sum-iv) |
 | [0435-non-overlapping-intervals](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -285,4 +289,5 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
