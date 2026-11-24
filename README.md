@@ -7,6 +7,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0876-middle-of-the-linked-list) |
@@ -68,6 +69,7 @@
 | [0130-surrounded-regions](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0216-combination-sum-iii) |
+| [0283-move-zeroes](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0283-move-zeroes) |
 | [0377-combination-sum-iv](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0377-combination-sum-iv) |
 | [0435-non-overlapping-intervals](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
