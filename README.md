@@ -6,6 +6,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0283-move-zeroes) |
@@ -37,6 +38,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0268-missing-number) |
@@ -69,6 +71,7 @@
 | [0040-combination-sum-ii](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0200-number-of-islands) |
