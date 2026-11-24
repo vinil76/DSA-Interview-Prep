@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0148-sort-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0283-move-zeroes) |
@@ -61,6 +62,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0055-jump-game) |
