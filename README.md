@@ -31,6 +31,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0205-isomorphic-strings](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0451-sort-characters-by-frequency) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
@@ -38,6 +39,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -71,6 +73,7 @@
 | [0130-surrounded-regions](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0216-combination-sum-iii) |
+| [0268-missing-number](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0283-move-zeroes) |
 | [0377-combination-sum-iv](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0377-combination-sum-iv) |
 | [0435-non-overlapping-intervals](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0435-non-overlapping-intervals) |
@@ -109,6 +112,7 @@
 | ------- |
 | [0078-subsets](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -270,4 +274,12 @@
 | [0207-course-schedule](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0802-find-eventual-safe-states) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/vinil76/DSA-Interview-Prep/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
